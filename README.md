@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Akash0000439/Akash0000439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -23,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
