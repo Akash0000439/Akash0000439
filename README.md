@@ -13,13 +13,15 @@ Welcome to my profile! Currently I'm working at Nagadhat as a Jr. Sfotware Devel
   </a>
 </div>
 <h5>About Me:<h5>
+-  Experience in PHP Laravel
+-  1 + years of professional experience software development
+  
+<h5>Technology Uses:<h5>
+-  php
+-  Laravel
+-  Vue.js
+-  MySql
+-  Javascripts
+-  c-panel
 
-- 🔭 Experience in PHP Laravel
-- 🌱 1 + years of professional experience software development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--😄 Pronouns: ...
--⚡ Fun fact: ...
 
