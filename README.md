@@ -15,6 +15,18 @@ Welcome to my profile! Currently I'm working at Nagadhat as a Jr. Sfotware Devel
 <h5>About Me:<h5>
 -  Experience in PHP Laravel
 -  1 + years of professional experience software development
+<h5>Technology Uses:<h5>
+-  php
+-  Laravel
+-  Vue.js
+-  MySql
+-  Javascripts
+-  c-panel
+  
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
 
