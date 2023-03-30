@@ -1,14 +1,14 @@
-# Hi! I'm Md Asaduzzaman 👋
+# Hi! I'm Md Anzam 👋
 Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.bd/) as a Software  Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting and I'd love to connect!
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/asaduzzaman-arob">
+  <a href=https://www.linkedin.com/in/md-anzam-hossen-83bb041b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@tinydrop5955">
+  <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/S1KOPAtH">
+  <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -16,15 +16,15 @@ Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.
 ### Quick highlighs
 
 - Experience in PHP Laravel
-- 2 + years of professional experience in the software industry
+- 1 + years of professional experience in the software industry
 - Developed applications by following SOLID principles, clean architecture.
 - Open-source enthusiast and love to write elegant code.
 
 ### Technology Stacks
 - Language: PHP, Javascript
 - Frameworks: Laravel, Vue.js, React.js
-- DBMS: MySQL, PostgreSQL, MongoDB
-- Infrastructure:  cPanel, Netlify, Heroku, Firebase
+- DBMS: MySQL, Sql, Sql Lite
+- Infrastructure:  cPanel,cws
 
 
 ### :hammer_and_wrench: Languages and Tools :
