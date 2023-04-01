@@ -1,6 +1,6 @@
 # Hi! I'm Md Anzam 👋
 Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.bd/) as a Jr. Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting and I'd love to connect!
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
