@@ -37,6 +37,10 @@ Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<a href="https://github.com/sohel1999">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1kopath&theme=dark&langs_count=4&hide=html,css,erlang" />
+</a>
+
 
 
 
