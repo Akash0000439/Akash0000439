@@ -40,7 +40,7 @@ Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.
 </div>
 
 <a href="https://github.com/sohel1999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1kopath&theme=dark&langs_count=4&hide=html,css,erlang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash0000439&theme=dark&langs_count=4&hide=html,css,erlang" />
 </a>
 
 
