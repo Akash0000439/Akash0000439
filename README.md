@@ -22,7 +22,7 @@ Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.
 
 ### Technology Stacks
 - Language: PHP, Javascript
-- Frameworks: Laravel, Vue.js, React.js
+- Frameworks: Laravel, Vue.js,
 - DBMS: MySQL, Sql, Sql Lite
 - Infrastructure:  cPanel,cws
 
