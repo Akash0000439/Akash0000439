@@ -1,8 +1,5 @@
 # Hi! I'm Md Anzam 👋
-Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.bd/) as a Jr. Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting and I'd love to connect!
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.bd/) as a Jr. Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. Thanks for visiting and I'd love to connect
 <div id="badges">
   <a href=https://www.linkedin.com/in/md-anzam-hossen-83bb041b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
