@@ -14,6 +14,7 @@ Welcome to my profile! Currently I'm working at [Nagadhat](https://nagadhat.com.
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+                                                                                                
 ### Quick highlighs
 
 - Experience in PHP Laravel
